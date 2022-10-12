@@ -6,7 +6,16 @@
     <description>Recent content on chaLyoung.log</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 11 Oct 2022 02:20:26 +0900</lastBuildDate><atom:link href="https://chaLyoung.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 12 Oct 2022 21:14:01 +0900</lastBuildDate><atom:link href="https://chaLyoung.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Deploy_test</title>
+      <link>https://chaLyoung.github.io/post/deploy_test/</link>
+      <pubDate>Wed, 12 Oct 2022 21:14:01 +0900</pubDate>
+      
+      <guid>https://chaLyoung.github.io/post/deploy_test/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Init</title>
       <link>https://chaLyoung.github.io/post/init/</link>
