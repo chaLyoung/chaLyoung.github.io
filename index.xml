@@ -5,6 +5,16 @@
     <link>https://chaLyoung.github.io/</link>
     <description>Recent content on chaLyoung.log</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://chaLyoung.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sun, 23 Oct 2022 21:22:38 +0900</lastBuildDate><atom:link href="https://chaLyoung.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Init</title>
+      <link>https://chaLyoung.github.io/posts/init/</link>
+      <pubDate>Sun, 23 Oct 2022 21:22:38 +0900</pubDate>
+      
+      <guid>https://chaLyoung.github.io/posts/init/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
